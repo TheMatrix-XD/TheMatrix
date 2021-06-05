@@ -1,8 +1,9 @@
 - 👋 Hi, I’m MΛƬЯIX
 - 👀 I’m interested in Hacking
-- 🌱 I’m currently learning Python , C
+- 🔥 Pro at Binning,Carding,Ethical,Python
+- 🌱 I’m currently learning Cracking , Ruby
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me Https://T.me/C4RN4GE
+- 📫 How to reach me Https://T.me/Matrix_Xy
 
 <!---
 Matrix/Matrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
